@@ -1,0 +1,4 @@
+$translateProvider.translations("en", {
+	"APP_TITLE": 			"Test for translation",
+	"INTRODUCTION_TEXT": 	"Let's learn how to i18n"
+});

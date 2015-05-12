@@ -1,0 +1,4 @@
+$translateProvider.translations("ja", {
+	"APP_TITLE": 			"翻訳の実験",
+	"INTRODUCTION_TEXT": 	"多言語対応の開発方法を学ぼう"		
+});
